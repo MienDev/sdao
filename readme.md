@@ -2,6 +2,6 @@
 
 -----
 ## app download 
-[buyme ios]("https://www.pgyer.com/buyme")
+[buyme ios](https://www.pgyer.com/buyme)
 
 <!--ipa plist-->
